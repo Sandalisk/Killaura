@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+[[mods]]
+modId="killaura"
+version="1.0"
+displayName="KillauraMod"
+description="Killaura mod with neural rotation and GUI"
